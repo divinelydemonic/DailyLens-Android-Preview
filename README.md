@@ -127,14 +127,33 @@ flowchart LR
 
 ## 🎬 Demo Videos
 
-📹 Video demonstrations will be added **section-wise** to showcase:
+📹 App flow in mobile and tablet:
 
-- App navigation  
-- Category switching  
-- Pull-to-refresh  
-- Error handling  
-- Dark/Light mode  
-- Tablet UI  
+https://youtu.be/TcfplDax_m8?si=K_Gs6e-bRGGRmsd5
+
+Demo Videos:
+
+https://github.com/user-attachments/assets/f996c040-589d-47ef-83b7-7cf0dac13bcf
+
+https://github.com/user-attachments/assets/0110074e-ebc7-40e7-bda7-b0980dca740b
+
+https://github.com/user-attachments/assets/49641d32-075a-4647-a42c-698899914734
+
+https://github.com/user-attachments/assets/b58d8859-67a9-4f6d-b0e7-6ece70a20bbd
+
+https://github.com/user-attachments/assets/fdcb8a1f-bf83-48a4-bd63-00912c7edaaa
+
+https://github.com/user-attachments/assets/8bef1b48-1eeb-44aa-800d-6cf0fb238923
+
+https://github.com/user-attachments/assets/b18cf336-8682-4f4f-928c-8b5613b8804b
+
+https://github.com/user-attachments/assets/7115aa4d-d44f-4057-b893-013cb384b83c
+
+https://github.com/user-attachments/assets/1d382013-32e9-4153-99d6-efeef0058d17
+
+https://github.com/user-attachments/assets/b2ee519d-6d56-467b-8f56-141cca511606
+
+https://github.com/user-attachments/assets/5e27be84-b887-416a-a1d2-cf25c9db5918  
 
 ---
 
