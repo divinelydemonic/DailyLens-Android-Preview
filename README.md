@@ -8,15 +8,6 @@
 
 ---
 
-## 📦 Download & Try
-
-👉 APK available in this repository: **`DailyLens.apk`**  
-👉 Install directly and explore the app without setup  
-
-> ⚠️ API key limitations may affect usage depending on quota
-
----
-
 ## ✨ Highlights
 
 - 📰 Real-time news updates  
