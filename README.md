@@ -35,6 +35,7 @@ This app delivers the latest news across multiple categories with a smooth, resp
 ## ✨ Features
 
 - 🗂️ Browse news by categories (Business, Sports, Technology, etc.)
+- 🫟 Splash Screen with App Icon
 - 🔄 Pull-to-refresh for latest updates
 - ⚡ Fast & responsive UI using Jetpack Compose
 - 🧠 MVVM architecture for clean and scalable code
@@ -196,5 +197,7 @@ NEWS_API_KEY=your_api_key_here
 ## 📄 License
 
 Copyright (c) 2026 Kunal
-All rights reserved.
+
+**All rights reserved.**
+
 Unauthorized use, reproduction, or distribution of this software, in whole or in part, is strictly prohibited without prior written permission from the author.
